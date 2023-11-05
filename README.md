@@ -1,6 +1,6 @@
 # layouts_rutbenito_p3
 
-A new Flutter project.
+A Flutter project with a hello world with layouts.
 
 ## Getting Started
 
